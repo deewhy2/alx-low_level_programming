@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
- * main - print the letters of the alphabet
- *
- * Description: print the letters of the alphabet
- *
- * Return: Always 0 (Success)
+ * print_alphabet_x10 - print alphabet 10 times
+ * Return: void
  */
 
 void print_alphabet_x10(void)
