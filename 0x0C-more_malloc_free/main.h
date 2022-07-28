@@ -3,7 +3,7 @@
 
 /**
  * File: holberton.h
- * Auth: Gedeon Obae Gekonge
+ * Auth: Lawal Oladayo
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
